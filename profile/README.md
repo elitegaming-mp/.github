@@ -1,4 +1,4 @@
-<div allign="center">
+<div align="center">
 ### Romanian Grand Theft Auto V server
 **Powered by [rage.mp](https://rage.mp)** Built with ❤️
 
