@@ -14,6 +14,8 @@
 
 ### [Visit our website](https://elitegaming.ro)
 
+</div>
+
 ---
 
 ## 👋 Despre noi
