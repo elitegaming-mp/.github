@@ -1,12 +1,24 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+# Romanian Grand Theft Auto V server
+**Powered by [rage.mp](https://rage.mp)** Built with ❤️
 
-**Here are some ideas to get you started:**
+[![Discord](https://img.shields.io/discord/1430396687414857764?label=Discord&logo=discord&logoColor=white&color=7289da)](discord.gg/elitegaming)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### [Visit our website](https://elitegaming.ro)
+
+---
+
+</div>
+
+## 👋 Despre noi
+Suntem o comunitate pasionată de Roleplay în România, oferind o experiență unică pe platforma RAGE:MP.
+
+## 🌈 Cum te poți implica?
+* **Staff:** Căutăm mereu oameni serioși pentru echipa noastră.
+* **Devs:** Dacă știi JS, te așteptăm pe Discord.
+* **Comunitate:** Intră pe server și creează-ți propria poveste!
+
+## 👩‍💻 Resurse utile
+* [Regulament Server](https://elitegaming.ro/regulament)
+* [Ghid de instalare](https://elitegaming.ro/tutorial)
