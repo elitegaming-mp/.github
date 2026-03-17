@@ -1,6 +1,5 @@
 <div align="center">
 
-# Romanian Grand Theft Auto V server
 **Powered by [rage.mp](https://rage.mp)** Built with ❤️
 
 <img src="https://cdn.discordapp.com/attachments/1463516266424832124/1483451945099464766/banner_1.png?ex=69baa3c8&is=69b95248&hm=2b292366f32f2f17282dc2c89693c9ccad8053f1891ff7d36dede3a21320e8f0&" width="500">
@@ -11,8 +10,6 @@
 ### [Visit our website](https://elitegaming.ro)
 
 ---
-
-</div>
 
 ## 👋 Despre noi
 Suntem o comunitate pasionată de Roleplay în România, oferind o experiență unică pe platforma RAGE:MP.
